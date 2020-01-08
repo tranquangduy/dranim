@@ -1,11 +1,5 @@
 # Visual Data Explorer
 
-[![Build Status](https://travis-ci.com/floric/dranim.svg?branch=master)](https://travis-ci.com/floric/dranim)
-[![Greenkeeper Enabledsquare](https://img.shields.io/badge/Greenkeeper-enabled-4c1.svg?colorA=555&style=flat-square)](https://greenkeeper.io/)
-[![Maintainability](https://api.codeclimate.com/v1/badges/11ca2c9099496836609c/maintainability)](https://codeclimate.com/github/floric/dranim/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/11ca2c9099496836609c/test_coverage)](https://codeclimate.com/github/floric/dranim/test_coverage)
-
-Backend: [![Known Vulnerabilities](https://snyk.io/test/github/floric/dranim/badge.svg?targetFile=packages/backend/package.json)](https://snyk.io/test/github/floric/dranim) Frontend: [![Known Vulnerabilities](https://snyk.io/test/github/floric/dranim/badge.svg?targetFile=packages/frontend/package.json)](https://snyk.io/test/github/floric/dranim) Shared: [![Known Vulnerabilities](https://snyk.io/test/github/floric/dranim/badge.svg?targetFile=packages/shared/package.json)](https://snyk.io/test/github/floric/dranim)
 
 ## Requirements
 
